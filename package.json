@@ -1,0 +1,15 @@
+  
+{
+  "id": "1password",
+  "name": "1Password",
+  "version": "1.0.0",
+  "description": "1Password dashboard",
+  "main": "index.js",
+  "author": "Neil Tonge <me@neiltonge.co.uk>",
+  "license": "MIT",
+  "repository": "https://github.com/rctneil/franz-recipe-1password",
+  "config": {
+    "serviceURL": "https://my.1password.com/",
+    "hasNotificationSound": false
+  }
+}
